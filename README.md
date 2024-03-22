@@ -15,7 +15,7 @@ We represent a financial consulting firm tasked with developing a model to predi
 |'X1'|*float*|US Company Bankruptcy Dataset|Current assets - All the assets of a company that are expected to be sold or used as a result of standard business operations over the next year (millions of USD)
 |'X2'|*float*|US Company Bankruptcy Dataset|Cost of goods sold - The total amount a company paid as a cost directly related to the sale of products (millions of USD)
 |'X3'|*float*|US Company Bankruptcy Dataset|Depreciation and amortization - Depreciation refers to the loss of value of a tangible fixed asset over time (such as property, machinery, buildings, and plant). Amortization refers to the loss of value of intangible assets over time (millions of USD)
-|'X4'|*float*|EBITDA - Earnings before interest, taxes, depreciation, and amortization. It is a measure of a company's overall financial performance, serving as an alternative to net income (millions of USD)
+|'X4'|*float*|US Company Bankruptcy Dataset|EBITDA - Earnings before interest, taxes, depreciation, and amortization. It is a measure of a company's overall financial performance, serving as an alternative to net income (millions of USD)
 |'X5'|*float*|US Company Bankruptcy Dataset|Inventory - The accounting of items and raw materials that a company either uses in production or sells (millions of USD)
 |'X6'|*float*|US Company Bankruptcy Dataset|Net Income - The overall profitability of a company after all expenses and costs have been deducted from total revenue (millions of USD)
 |'X7'|*float*|US Company Bankruptcy Dataset|Total Receivables - The balance of money due to a firm for goods or services delivered or used but not yet paid for by customers (millions of USD)
