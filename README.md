@@ -3,7 +3,7 @@
 #### Binita, Juan, Faye
 
 ## Objective
-We represent a financial consulting firm tasked with developing a model to predict the success or failure of businesses for our client, a hedge fund looking to add new investments to their portfolio.  We examined a dataset of 8,2626 distinct companies operating in the period of 1999 - 2018 where some fraction declared bankruptcy(1).  We examined 18 features of these companies including such attributes as assets, revenue, and long and short term debts.  We anticipate that our classification model can better advise on which companies for our client to acquire, thus mitigating investment risk.
+We represent a financial consulting firm tasked with developing a model to predict the success or failure of businesses for our client, a hedge fund looking to add new investments to their portfolio.  We examined a dataset of 8,971 distinct companies operating in the period of 1999 - 2018 where some fraction declared bankruptcy(1).  We examined 18 features of these companies including such attributes as assets, revenue, and long and short term debts.  We anticipate that our classification model can better advise on which companies for our client to acquire, thus mitigating investment risk.
 
 
 ## Data Dictionary
